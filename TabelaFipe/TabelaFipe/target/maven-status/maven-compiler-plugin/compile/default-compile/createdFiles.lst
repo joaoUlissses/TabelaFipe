@@ -1,0 +1,8 @@
+br\com\alura\TabelaFipe\service\ConsumoApi.class
+br\com\alura\TabelaFipe\TabelaFipeApplication.class
+br\com\alura\TabelaFipe\service\IConverteDados.class
+br\com\alura\TabelaFipe\service\ConverteDados.class
+br\com\alura\TabelaFipe\model\Dados.class
+br\com\alura\TabelaFipe\model\Modelos.class
+br\com\alura\TabelaFipe\model\Veiculo.class
+br\com\alura\TabelaFipe\principal\Principal.class
